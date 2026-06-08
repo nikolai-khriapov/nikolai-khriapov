@@ -12,7 +12,7 @@ Software Engineer with a Master’s degree in Software Engineering and nearly 3 
 
 ## Skills
 **Technical:** Java, Spring Framework, PostgreSQL, Redis, MongoDB, JavaScript, TypeScript, React, Next.js, Redux, Nx, Docker, AWS S3
-**Languages:** English (C2 – EF SET), Russian (native), Chinese (HSK 3)
+**Languages:** English ([C2 – EF SET](https://www.efset.org/cert/8Aomkp)), Russian (native), Chinese ([HSK 3](https://drive.google.com/file/d/1-Aon0NNFj-6pUNooN5znA0nbrdOAL4P8/view?usp=sharing))
 
 ## Work Experience
 ### HarmonyHR (Jul 2025 - Present)
