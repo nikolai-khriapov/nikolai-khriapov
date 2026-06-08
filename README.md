@@ -1,6 +1,6 @@
-# Nikolai Khriapov
+<h1 align='center'>Nikolai Khriapov</h1>
 
-nikolai.khriapov@icloud.com | linkedin.com/in/khriapov-nikolai | github.com/nikolai-khriapov
+[nikolai.khriapov@icloud.com](mailto:nikolai.khriapov@icloud.com) | [linkedin.com/in/khriapov-nikolai](linkedin.com/in/khriapov-nikolai) | [github.com/nikolai-khriapov](github.com/nikolai-khriapov)
 
 ## Summary
 Software Engineer with a Master’s degree in Software Engineering and nearly 3 years of experience building Java/Spring business systems across legal tech and HR tech, with React experience. Open to global opportunities – relocation or remote work.
