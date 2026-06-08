@@ -7,12 +7,15 @@
   <a href="https://t.me/nikolai_khriapov">t.me/nikolai_khriapov</a>
 </p>
 
+
 ## Summary
 Software Engineer with a Master’s degree in Software Engineering and nearly 3 years of experience building Java/Spring business systems across legal tech and HR tech, with React experience. Open to global opportunities – relocation or remote work.
+
 
 ## Skills
 **Technical:** Java, Spring Framework, PostgreSQL, Redis, MongoDB, JavaScript, TypeScript, React, Next.js, Redux, Nx, Docker, AWS S3
 **Languages:** English ([C2 – EF SET](https://www.efset.org/cert/8Aomkp)), Russian (native), Chinese ([HSK 3](https://drive.google.com/file/d/1-Aon0NNFj-6pUNooN5znA0nbrdOAL4P8/view?usp=sharing))
+
 
 ## Work Experience
 ### HarmonyHR (Jul 2025 - Present)
@@ -39,6 +42,7 @@ Software Engineer with a Master’s degree in Software Engineering and nearly 3 
 - Completed an intensive Java Web Development pre-production lab, culminating in the successful delivery of a capstone project.
 - Leveraged fundamental computer science skills, including data structures, algorithms, databases, and object-oriented programming.
 
+
 ## Projects
 ### Modular2Simple | Java, Python (GitHub: [github.com/nikolai-khriapov/modular2simple](https://github.com/nikolai-khriapov/modular2simple))
 - Developed an open-source, peer-reviewed framework (published at CEVVE 2024) for modular scenario creation in autonomous driving systems, reducing scenario code complexity by ~50%.
@@ -49,8 +53,10 @@ Software Engineer with a Master’s degree in Software Engineering and nearly 3 
 ### News Aggregator – Gen AI Intensive Course Capstone (Google / Kaggle, 2025) | Python
 - Developed an end-to-end news analysis tool using Large Language Models (LLMs) to aggregate news articles, perform bias analysis, and generate concise summaries.
 
+
 ## Research & Publications
 - Khriapov, N., et al. (2025). Modular2Simple: A Tool for Modular Scenario Creation Based on the OpenSCENARIO Format. CEVVE 2024. Springer LNEE 1424, 2025. [DOI 10.1007/978-981-96-6827-4_49](https://doi.org/10.1007/978-981-96-6827-4_49).
+
 
 ## Education
 ### Master’s Degree (Research) – Software Engineering (Sep 2022 – Oct 2025)
