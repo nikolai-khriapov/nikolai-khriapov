@@ -20,16 +20,16 @@ Software Engineer with a Master’s degree in Software Engineering and nearly 3 
 ## Work Experience
 ### HarmonyHR (Jul 2025 - Present)
 #### Software Engineer (Remote)
-- Introduced multitenancy in the backend, including tenant-aware data isolation, index redesign, tenant bootstrap flows, and per-tenant quota controls across core workflows.
-- Delivered Google Calendar and Gmail OAuth integrations to support external scheduling and communication workflows.
-- Built asynchronous import and external data migration flows with import tracking and high-volume performance optimizations.
-- Implemented an S3-compatible object storage layer for SaaS deployments.
+- Introduced multitenancy in the backend to support SaaS deployment and tenant-safe core workflows.
+- Delivered Google Workspace integrations to support scheduling and communication workflows.
+- Built asynchronous import and external data migration flows with job tracking and performance improvements for large datasets.
+- Implemented object storage integration for SaaS deployments.
 ### Freelbee / Braindoc (Oct 2023 – Present)
 #### Middle Full-Stack Software Engineer (Remote)
 - Led a team of 5 engineers to deliver the initial MVP in 4 months.
 - Architected a modular monolith backend and monorepo frontend, improving domain separation.
 - Built core platform services for subscription management, document generation, e-signature, and power-of-attorney workflows.
-- Integrated AWS S3 for secure document storage and retrieval, and the Federal Tax System API to automate compliance-critical verification flows.
+- Integrated AWS S3 for secure document storage and retrieval, and a government tax/compliance API to automate verification workflows.
 #### Junior Full-Stack Software Engineer
 - Implemented backend multilingual support and third-party e-signature and invoicing integrations.
 - Contributed to the migration from a monolithic to a modular architecture.
