@@ -21,6 +21,7 @@ Software Engineer with a Master’s degree in Software Engineering and nearly 3 
 ### HarmonyHR (Jul 2025 - Present)
 #### Software Engineer (Remote)
 - Introduced multitenancy in the backend to support SaaS deployment and tenant-safe core workflows.
+- Built external API with rate limiting and idempotent write handling.
 - Delivered Google Workspace integrations to support scheduling and communication workflows.
 - Built asynchronous import and external data migration flows with job tracking and performance improvements for large datasets.
 - Implemented object storage integration for SaaS deployments.
