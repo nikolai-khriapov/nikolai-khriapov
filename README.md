@@ -47,7 +47,7 @@ Software Engineer with a Master’s degree in Software Engineering and nearly 3 
 ## Projects
 ### Modular2Simple | Java, Python (GitHub: [github.com/nikolai-khriapov/modular2simple](https://github.com/nikolai-khriapov/modular2simple))
 - Developed an open-source, peer-reviewed framework (published at CEVVE 2024) for modular scenario creation in autonomous driving systems, reducing scenario code complexity by ~50%.
-### Daily Lexika | Java, Spring Framework, PostgreSQL, React, Next.js, Redux, Nx (Website: [dailylexika.com](https://dailylexika.com/))
+### Daily Lexika | Java, Spring Framework, PostgreSQL, React, Next.js, Redux, Nx (Website: [https://dailylexika.com/](https://vocab.dailify.io/))
 - Developed a full-stack cross-platform web application for English and Chinese vocabulary practice using spaced-repetition approach.
 - Designed a robust multi-module backend with Java and Spring and an intuitive, responsive frontend with React and Next.js.
 - Deployed the application to Google Cloud and published it as a Progressive Web Application (PWA) on the Play Store.
