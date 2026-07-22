@@ -30,7 +30,7 @@ Software Engineer with a Master’s degree in Software Engineering and nearly 3 
 - Led a team of 5 engineers to deliver the initial MVP in 4 months.
 - Architected a modular monolith backend and monorepo frontend, improving domain separation.
 - Built core platform services for subscription management, document generation, e-signature, and power-of-attorney workflows.
-- Integrated AWS S3 for secure document storage and retrieval, and a government tax/compliance API to automate verification workflows.
+- Integrated AWS S3 for secure document storage and retrieval.
 #### Junior Full-Stack Software Engineer
 - Implemented backend multilingual support and third-party e-signature and invoicing integrations.
 - Contributed to the migration from a monolithic to a modular architecture.
