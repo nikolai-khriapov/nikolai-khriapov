@@ -20,19 +20,17 @@ Software Engineer with a Master’s degree in Software Engineering and nearly 3 
 ## Work Experience
 ### HarmonyHR (Jul 2025 - Present)
 #### Software Engineer (Remote)
-- Introduced multitenancy in the backend to support SaaS deployment and tenant-safe core workflows.
-- Built external API with rate limiting and idempotent write handling.
-- Delivered Google Workspace integrations to support scheduling and communication workflows.
-- Built asynchronous import and external data migration flows with job tracking and performance improvements for large datasets.
-- Implemented object storage integration for SaaS deployments.
+- Introduced multitenancy, enabling SaaS rollout alongside on-premise deployments.
+- Built external API with rate limiting and idempotent writes for third-party integrations.
+- Integrated Google Calendar and Gmail into recruiting workflows with OAuth-based access.
+- Built an external data migration workflow for large datasets.
 ### Freelbee / Braindoc (Oct 2023 – Present)
 #### Middle Full-Stack Software Engineer (Remote)
-- Led a team of 5 engineers to deliver the initial MVP in 4 months.
-- Architected a modular monolith backend and monorepo frontend, improving domain separation.
-- Built core platform services for subscription management, document generation, e-signature, and power-of-attorney workflows.
-- Integrated AWS S3 for secure document storage and retrieval.
+- Led 5 engineers to deliver MVP in 4 months while owning architecture, reviews, and launch coordination.
+- Built reusable legal document generation across core workflows.
+- Built power-of-attorney support and e-signature workflows with SMS approval and verifiable signed documents.
 #### Junior Full-Stack Software Engineer
-- Implemented backend multilingual support and third-party e-signature and invoicing integrations.
+- Contributed to backend feature development and integration-heavy legal workflow features.
 - Contributed to the migration from a monolithic to a modular architecture.
 - Built and maintained responsive product interfaces using React, Next.js, and Redux.
 ### Prometeo Chain System (Aug 2023 – Sep 2023)
