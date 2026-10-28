@@ -50,7 +50,8 @@ Software Engineer with a Master’s degree in Software Engineering and 3 years o
 
 
 ## Research & Publications
-- Khriapov, N., et al. (2025). Modular2Simple: A Tool for Modular Scenario Creation Based on the OpenSCENARIO Format. CEVVE 2024. Springer LNEE 1424, 2025. [DOI 10.1007/978-981-96-6827-4_49](https://doi.org/10.1007/978-981-96-6827-4_49).
+- Khriapov, N., Drif, M.T., Li, R., Widdershoven, C. (2025). Modular2Simple: A Tool for Modular Scenario Creation Based on the OpenSCENARIO Format. CEVVE 2024. Springer LNEE 1424, 2025. [DOI 10.1007/978-981-96-6827-4_49](https://doi.org/10.1007/978-981-96-6827-4_49).
+- Drif, M.T., Khriapov, N., Widdershoven, C. (2026). Autonomous Driving Systems and OpenSCENARIO: A Case Study Using TCP and InterFuser. ICRAS 2026. IEEE, 2026. [IEEE Xplore](https://ieeexplore.ieee.org/document/11717932).
 
 
 ## Education
